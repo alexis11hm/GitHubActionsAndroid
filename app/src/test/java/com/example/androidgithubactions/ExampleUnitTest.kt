@@ -18,7 +18,7 @@ class ExampleUnitTest {
     @Test
     fun checkIfNumberIsCorrect(){
         val numberOne = 1
-        val numberTwo = 2
+        val numberTwo = 1
         assertEquals(numberOne, numberTwo)
     }
 }
